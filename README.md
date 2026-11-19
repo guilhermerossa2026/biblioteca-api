@@ -7,10 +7,10 @@
 
 | Nome | Papel |
 |---|---|
-| Guilherme Rossa |  |
-| Gustavo Rossa |  |
-| Filipe | |
-| Gabriel | |
+| Guilherme Rossa | Modelagem e organização do repositório |
+| Gustavo Rossa | Camada de serviço e regras de negócio |
+| Filipe | Controllers e endpoints |
+| Gabriel | Banco de dados e validação |
 
 ## Problema
 
