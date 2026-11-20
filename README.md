@@ -201,11 +201,7 @@ Exemplo de resposta de livros com um resultado na página.
 }
 ```
 
-## Roteiro de demonstração ao professor
-
-**Duração sugerida para a API base** — cerca de cinco minutos no Postman. Abra a apresentação com o problema, o UML e o fluxo Controller → Service → Repository. Durante a demonstração, mostre um DTO de entrada e a regra de disponibilidade no service. Reserve o restante do tempo para a carta-desafio e as perguntas.
-
-**Preparação.** Inicie a aplicação uma vez. Use `http://localhost:8080` como endereço base. No Postman, use **Body → raw → JSON** em POST e PUT e **Body → none** em GET e DELETE. Salve as requisições na ordem abaixo para evitar digitar durante a apresentação. Use os IDs que aparecerem nas respostas e mantenha a aplicação rodando entre os testes.
+## Roteiro de demonstração
 
 ### 1. Cadastre os dados da demonstração
 
